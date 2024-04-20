@@ -33,4 +33,4 @@ This repository contains code of the implementation of Tetris Game built using C
 
 <br>
 
-For any other queries regarding the code, you can contact me on my [email](arshaq.kirmani@gmail.com)
+For any other queries regarding the code, you can contact me on my [email](mailto:arshaq.kirmani@gmail.com)
